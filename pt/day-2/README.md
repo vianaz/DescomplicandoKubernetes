@@ -7,7 +7,6 @@
 
 - [Descomplicando o Kubernetes](#descomplicando-o-kubernetes)
   - [DAY-2](#day-2)
-    - [Conteúdo do Day-3](#conteúdo-do-day-3)
     - [Inicio da aula do Day-2](#inicio-da-aula-do-day-2)
     - [O que iremos ver hoje?](#o-que-iremos-ver-hoje)
     - [O que é um Pod?](#o-que-é-um-pod)
